@@ -1,0 +1,860 @@
+[
+  {
+    "r_seq": "R-",
+    "date_decided": "Date",
+    "docket": "Docket",
+    "caption": "Name",
+    "justice": "J.",
+    "pt": "Pt."
+  },
+  {
+    "r_seq": "85",
+    "date_decided": "7/07/11",
+    "docket": "11-5001",
+    "caption": "Leal Garcia v. Texas",
+    "caption_tooltip": " Petitioner's applications for stay of execution on the ground that his conviction was obtained in violation of the Vienna Convention on Consular Relations, as well as his petition for a writ of habeas corpus, are denied.",
+    "link": "/opinions/10pdf/11-5001.pdf",
+    "justice": "PC",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "84",
+    "date_decided": "6/27/11",
+    "docket": "09-940",
+    "caption": "United States v. Juvenile Male",
+    "caption_tooltip": " Because at the time of the Ninth Circuit's decision in this case, the District Court's juvenile supervision order had expired and respondent was no longer subject to the sex-offender-registration conditions that he sought to challenge on appeal; and because he cannot show that a decision invalidating the District Court's order would likely redress some collateral consequence of the registration conditions, respondent's appeal was moot and the Ninth Circuit lacked the authority to decide his case on the merits.\n",
+    "link": "/opinions/10pdf/09-940.pdf",
+    "justice": "PC",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "83",
+    "date_decided": "6/27/11",
+    "docket": "10-76",
+    "caption": "Goodyear Dunlop Tires Operations, S. A. v. Brown",
+    "caption_tooltip": " Petitioners, three foreign subsidiaries of Goodyear USA, were not amenable to suit in North Carolina on claims unrelated to any activity of petitioners in the forum State.\n",
+    "link": "/opinions/10pdf/10-76.pdf",
+    "justice": "G",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "82",
+    "date_decided": "6/27/11",
+    "docket": "09-1343",
+    "caption": "J. McIntyre Machinery, Ltd. v. Nicastro",
+    "caption_tooltip": " The judgment of the New Jersey Supreme Court—which held that the Federal Constitution permits state courts to assert jurisdiction over a foreign manufacturer in a products liability suit as long as the manufacturer knew, or reasonably should have known, that its products are distributed through a nationwide distribution system that might lead to them being sold in any of the States—is reversed.\n",
+    "link": "/opinions/10pdf/09-1343.pdf",
+    "justice": "K",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "81",
+    "date_decided": "6/27/11",
+    "docket": "08-1448",
+    "caption": "Brown v. Entertainment Merchants Assn.",
+    "caption_tooltip": " A California law that restricts the sale or rental of violent video games to minors does not comport with the First Amendment. \n",
+    "link": "/opinions/10pdf/08-1448.pdf",
+    "justice": "AS",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "80",
+    "date_decided": "6/27/11",
+    "docket": "10-238",
+    "caption": "Arizona Free Enterprise Club's Freedom Club PAC v. Bennett",
+    "caption_tooltip": " The Arizona Citizens Clean Elections Act's matching funds scheme—which permits candidates opting to take public funding for their campaigns to receive additional funds when privately funded candidates' expenditures, combined with the expenditures of specified independent groups, exceed the publicly financed candidate's allotment—substantially burdens political speech and is not sufficiently justified by a compelling state interest to survive First Amendment scrutiny.\n",
+    "link": "/opinions/10pdf/10-238.pdf",
+    "justice": "R",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "79",
+    "date_decided": "6/23/11",
+    "docket": "10-235",
+    "caption": "CSX Transp., Inc. v. McBride",
+    "caption_tooltip": " The Federal Employers' Liability Act does not incorporate 'proximate cause' standards developed in nonstatutory common-law tort actions; rather, the proper charge in a FELA case tracks the Act's language, informing the jury that a defendant railroad 'caused or contributed to' a railroad worker's injury 'if [the railroad's] negligence played a part—no matter how small—in bringing about the injury.'\n",
+    "link": "/opinions/10pdf/10-235.pdf",
+    "justice": "G",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "78",
+    "date_decided": "6/23/11",
+    "docket": "09-10876",
+    "caption": "Bullcoming v. New Mexico",
+    "caption_tooltip": " The Sixth Amendment's Confrontation Clause does not permit the prosecution to introduce a forensic laboratory report containing a testimonial certification, made in order to prove a fact at a criminal trial, through the in-court testimony of an analyst who did not sign the certification or personally perform or observe the performance of the test reported in the certification. The accused's right is to be confronted with the analyst who performed the test and made the certification, unless that analyst is unavailable at trial, and the accused had an opportunity, pretrial, to cross-examine that particular scientist.\n",
+    "link": "/opinions/10pdf/09-10876.pdf",
+    "justice": "G",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "77",
+    "date_decided": "6/23/11",
+    "docket": "09-993",
+    "caption": "PLIVA, Inc. v. Mensing",
+    "caption_tooltip": " Federal drug regulations applicable to generic drug manufacturers directly conflict with, and thus pre-empt, respondents' state tort-law suits against petitioner drug manufacturers for their alleged failure to provide adequate warning labels for generic metoclopramide.\n",
+    "link": "/opinions/10pdf/09-993.pdf",
+    "justice": "T",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "76",
+    "date_decided": "6/23/11",
+    "docket": "10-779",
+    "caption": "Sorrell v. IMS Health Inc.",
+    "caption_tooltip": " Vermont's Prescription Confidentiality Law—which provides that prescriber-identifying information generally may not be sold by pharmacies and similar entities, disclosed by those entities for marketing purposes, or used for marketing by pharmaceutical manufacturers—imposes content- and speaker-based burdens on expression protected by the First Amendment and is thus subject to heightened judicial scrutiny; the State's justifications for its law do not withstand heightened scrutiny.\n",
+    "link": "/opinions/10pdf/10-779.pdf",
+    "justice": "K",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "75",
+    "date_decided": "6/23/11",
+    "docket": "09-10245",
+    "caption": "Freeman v. United States",
+    "caption_tooltip": " The judgment of the Sixth Circuit—which held that, barring a miscarriage of justice or mutual mistake, a defendant who enters into a binding plea bargain under Federal Rule of Criminal Procedure 11(c)(1)(C) cannot benefit from the retroactive reduction of a Sentencing Guidelines prison term under 18 U. S. C. §3582(c)(2)—is reversed, and the case is remanded.\n",
+    "link": "/opinions/10pdf/09-10245.pdf",
+    "justice": "K",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "74",
+    "date_decided": "6/23/11",
+    "docket": "10-179",
+    "caption": "Stern v. Marshall",
+    "caption_tooltip": " Although 28 U. S. C. §157(b)(2)(C) authorized the Bankruptcy Court to enter judgment on a counterclaim filed by the widow of J. Howard Marshall II, Vickie Lynn Marshall (whose estate is the petitioner), against Pierce Marshall (whose estate is the respondent) in Vickie's bankruptcy proceedings, Article III of the Constitution did not.\n",
+    "link": "/opinions/10pdf/10-179.pdf",
+    "justice": "R",
+    "pt": "564/2"
+  },
+  {
+    "r_seq": "73",
+    "date_decided": "6/20/11",
+    "docket": "10-10",
+    "caption": "Turner v. Rogers",
+    "caption_tooltip": " The Fourteenth Amendment's Due Process Clause does not automatically require the State to provide counsel at civil contempt proceedings to an indigent noncustodial parent who is subject to a child support order, even if that individual faces incarceration (for up to a year).  In particular, that Clause does not require that counsel be provided where the opposing parent or other custodian (to whom support funds are owed) is not represented by counsel and the State provides alternative procedural safeguards equivalent to adequate notice of the importance of the ability to pay, a fair opportunity to present, and to dispute, relevant information, and express court findings as to the supporting parent's ability to comply with the support order.\n",
+    "link": "/opinions/10pdf/10-10.pdf",
+    "justice": "B",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "72",
+    "date_decided": "6/20/11",
+    "docket": "10-174",
+    "caption": "American Elec. Power Co. v. Connecticut",
+    "caption_tooltip": " The Clean Air Act and the Environmental Protection Agency action the Act authorizes displace any federal common-law right to seek abatement of carbon-dioxide emissions from fossil-fuel fired power plants.\n",
+    "link": "/opinions/10pdf/10-174.pdf",
+    "justice": "G",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "71",
+    "date_decided": "6/20/11",
+    "docket": "09-1476",
+    "caption": "Borough of Duryea v. Guarnieri",
+    "caption_tooltip": " A government employer's allegedly retaliatory actions against an employee do not give rise to liability under the First Amendment's Petition Clause unless the employee's petition related to a matter of public concern.",
+    "link": "/opinions/10pdf/09-1476.pdf",
+    "justice": "K",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "70",
+    "date_decided": "6/20/11",
+    "docket": "10-277",
+    "caption": "Wal-Mart Stores, Inc. v. Dukes",
+    "caption_tooltip": " In this Title VII employment discrimination case, the certification of a nationwide class of 1.5 million women was not consistent with Federal Rule of Civil Procedure 23(a)'s commonality requirement, and respondents' backpay claims—which were for individualized monetary relief—were improperly certified under Rule 23(b)(2).\n",
+    "link": "/opinions/10pdf/10-277.pdf",
+    "justice": "AS",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "69",
+    "date_decided": "6/16/11",
+    "docket": "10-5400",
+    "caption": "Tapia v. United States",
+    "caption_tooltip": " Title 18 U. S. C. §3582(a) does not permit a sentencing court to impose or lengthen a prison term in order to foster a defendant's rehabilitation.\n",
+    "link": "/opinions/10pdf/10-5400.pdf",
+    "justice": "EK",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "68",
+    "date_decided": "6/16/11",
+    "docket": "09-1205",
+    "caption": "Smith v. Bayer Corp.",
+    "caption_tooltip": "  In enjoining a state court from considering Smith's class certification request, the Federal District Court exceeded its authority under the 'relitigation exception' to the federal Anti-Injunction Act, which generally prohibits federal courts from enjoining state court proceedings.\n",
+    "link": "/opinions/10pdf/09-1205.pdf",
+    "justice": "EK",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "67",
+    "date_decided": "6/16/11",
+    "docket": "09-11121",
+    "caption": "J. D. B. v. North Carolina",
+    "caption_tooltip": " A child's age is relevant to the determination whether the child was in police custody for purposes of Miranda v. Arizona, 384 U. S. 436.",
+    "link": "/opinions/10pdf/09-11121.pdf",
+    "justice": "SS",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "66",
+    "date_decided": "6/16/11",
+    "docket": "09-11328",
+    "caption": "Davis v. United States",
+    "caption_tooltip": " Searches conducted in objectively reasonable reliance on binding appellate precedent are not subject to the exclusionary rule.\n",
+    "link": "/opinions/10pdf/09-11328.pdf",
+    "justice": "A",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "65",
+    "date_decided": "6/16/11",
+    "docket": "09-1227",
+    "caption": "Bond v. United States",
+    "caption_tooltip": " Bond, who was charged with violating 18 U. S. C. §229—which forbids knowing possession or use of a chemical that 'can cause death, temporary incapacitation or permanent harm to humans'—for injuring someone with chemicals during a domestic dispute, has standing to challenge the federal statute on grounds that the measure interferes with the powers reserved to States.\n",
+    "link": "/opinions/10pdf/09-1227.pdf",
+    "justice": "K",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "64",
+    "date_decided": "6/13/11",
+    "docket": "09-5801",
+    "caption": "Flores-Villar v. United States",
+    "caption_tooltip": " Judgment affirmed by equally divided Court.\n",
+    "link": "/opinions/10pdf/09-5801.pdf",
+    "justice": "PC",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "63",
+    "date_decided": "6/13/11",
+    "docket": "10-382",
+    "caption": "United States v. Jicarilla Apache Nation",
+    "caption_tooltip": " The fiduciary exception to the attorney-client privilege does not apply to the general trust relationship between the United States and the Indian tribes.\n",
+    "link": "/opinions/10pdf/10-382.pdf",
+    "justice": "A",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "62",
+    "date_decided": "6/13/11",
+    "docket": "09-525",
+    "caption": "Janus Capital Group, Inc. v. First Derivative Traders",
+    "caption_tooltip": " Petitioners Janus Capital Group, Inc., and its wholly owned subsidiary Janus Capital Management LLC—a mutual fund investment adviser—cannot be held liable in a private action under Securities and Exchange Commission (SEC) Rule 10b–5 for false statements made in the prospectuses of its client Janus Investment Fund.\n",
+    "link": "/opinions/10pdf/09-525.pdf",
+    "justice": "T",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "61",
+    "date_decided": "6/13/11",
+    "docket": "10-568",
+    "caption": "Nevada Comm'n on Ethics v. Carrigan",
+    "caption_tooltip": " Nevada's Ethics in Government Law—which requires public officials who have a conflict of interest to recuse themselves from voting on a proposal or advocating its passage or failure—does not violate the First Amendment.\n",
+    "link": "/opinions/10pdf/10-568.pdf",
+    "justice": "AS",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "60",
+    "date_decided": "6/09/11",
+    "docket": "10-290",
+    "caption": "Microsoft Corp. v. i4i Ltd. Partnership",
+    "caption_tooltip": " Section §282 of the Patent Act of 1952, which provides that '[a] patent shall be presumed valid' and that '[t]he burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity,' requires an invalidity defense to be proved by clear and convincing evidence.\n",
+    "link": "/opinions/10pdf/10-290.pdf",
+    "justice": "SS",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "59",
+    "date_decided": "6/09/11",
+    "docket": "09-1533",
+    "caption": "DePierre v. United States",
+    "caption_tooltip": " '[C]ocaine base' as used in 21 U. S. C. §841(b)(1)(A)(iii)—which provides a mandatory 10-year minimum sentence for offenses involving '50 grams or more of a mixture or substance . . . which contains cocaine base'—means not just 'crack cocaine,' but cocaine in its chemically basic form.\n",
+    "link": "/opinions/10pdf/09-1533.pdf",
+    "justice": "SS",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "58",
+    "date_decided": "6/09/11",
+    "docket": "10-313",
+    "caption": "Talk America, Inc. v. Michigan Bell Telephone Co.",
+    "caption_tooltip": " This Court defers to the Federal Communications Commission's reasonable interpretation of its Telecommunications Act of 1996 regulations: To satisfy its duty under 47 U. S. C. §251(c)(2), an incumbent local telephone service provider must make its existing 'entrance facilities,' i.e., connective transmission cables, available to a competitor at cost-based rates if the facilities are to be used for interconnection of the two providers' networks.",
+    "link": "/opinions/10pdf/10-313.pdf",
+    "justice": "T",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "57",
+    "date_decided": "6/09/11",
+    "docket": "09-11311",
+    "caption": "Sykes v. United States",
+    "caption_tooltip": " Felony vehicle flight, as proscribed by Indiana law, is a 'violent felony' for purposes of the Armed Career Criminal Act, 18 U. S. C. §924(e), which provides a 15-year mandatory minimum prison term for a defendant, convicted of firearms possession, who has three prior 'violent felony' convictions. \n",
+    "link": "/opinions/10pdf/09-11311.pdf",
+    "justice": "K",
+    "pt": "564/1"
+  },
+  {
+    "r_seq": "56",
+    "date_decided": "6/06/11",
+    "docket": "10-114",
+    "caption": "Fox v. Vice",
+    "caption_tooltip": "When a plaintiff's suit involves both frivolous and non-frivolous claims, a court may grant reasonable attorney's fees to the defendant under 42 U. S. C. §1988, but only for costs that the defendant would not have incurred but for the frivolous claims; here, the lower courts applied the wrong standard in awarding fees to defendant-respondents.\n",
+    "link": "/opinions/10pdf/10-114.pdf",
+    "justice": "EK",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "55",
+    "date_decided": "6/06/11",
+    "docket": "10-5258",
+    "caption": "McNeill v. United States",
+    "caption_tooltip": "In order to sentence a felon unlawfully in possession of a firearm to the 15-year mandatory prison term provided by the Armed Career Criminal Act for an offender who has three prior convictions for a 'serious drug offense'—i.e., 'an offense under State law . . . for which a maximum term of imprisonment of ten years or more is prescribed by law,' 18 U. S. C. §924(e)(2)(A)(ii) —a federal court must look to the maximum term applicable to the defendant's prior drug offense at the time of his state conviction for that offense, not to the state prison term applicable to the offense at the time of federal sentencing.",
+    "link": "/opinions/10pdf/10-5258.pdf",
+    "justice": "T",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "54",
+    "date_decided": "6/06/11",
+    "docket": "09-1403",
+    "caption": "Erica P. John Fund, Inc. v. Halliburton Co.",
+    "caption_tooltip": "Although securities fraud plaintiffs must demonstrate that a defendant's deceptive conduct caused their claimed economic loss (the 'loss causation' requirement) to prevail in a private securities fraud action, they need not prove loss causation in order to obtain class certification under Federal Rule of Civil Procedure 23.\n",
+    "link": "/opinions/10pdf/09-1403.pdf",
+    "justice": "R",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "53",
+    "date_decided": "6/06/11",
+    "docket": "09-1159",
+    "caption": "Board of Trustees of Leland Stanford Junior Univ. v. Roche Molecular Systems, Inc.",
+    "caption_tooltip": "The University and Small Business Patent Procedures Act of 1980 (Bayh-Dole Act) does not automatically vest title to federally funded inventions in federal contractors or authorize contractors to unilaterally take title to such inventions.",
+    "link": "/opinions/10pdf/09-1159.pdf",
+    "justice": "R",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "52",
+    "date_decided": "5/31/11",
+    "docket": "10-6",
+    "caption": "Global-Tech Appliances, Inc. v. SEB S. A.",
+    "caption_tooltip": "Induced infringement of a patent under 35 U. S. C. §271(b) requires knowledge that the induced acts constitute patent infringement, not simply deliberate indifference to a known risk that a patent exists; although the Federal Circuit applied a deliberate indifference test in this case, its judgment must be affirmed because the evidence was plainly sufficient to support a finding of petitioners' culpability under the doctrine of willful blindness.",
+    "link": "/opinions/10pdf/10-6.pdf",
+    "justice": "A",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "51",
+    "date_decided": "5/31/11",
+    "docket": "10-98",
+    "caption": "Ashcroft v. al-Kidd",
+    "caption_tooltip": "The objectively reasonable arrest and detention of a material witness pursuant to a validly obtained warrant cannot be challenged as unconstitutional on the basis of allegations that the arresting authority had an improper motive; former Attorney General Ashcroft did not violate clearly established law in allegedly authorizing federal officials to obtain valid material-witness warrants to detain terrorism suspects, and thus he is entitled to qualified immunity.",
+    "link": "/opinions/10pdf/10-98.pdf",
+    "justice": "AS",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "50",
+    "date_decided": "5/26/11",
+    "docket": "09-1454",
+    "caption": "Camreta v. Greene",
+    "caption_tooltip": "This Court generally may review a lower court's constitutional ruling at the behest of government officials who have won final judgment on qualified immunity grounds; because mootness has frustrated Camreta's ability to challenge the Ninth Circuit's ruling that he must obtain a warrant before interviewing a suspected child abuse victim at school, that part of the Ninth Circuit's decision must be vacated.\n",
+    "link": "/opinions/10pdf/09-1454.pdf",
+    "justice": "EK",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "49",
+    "date_decided": "5/26/11",
+    "docket": "10-5443",
+    "caption": "Fowler v. United States",
+    "caption_tooltip": "Where a defendant killed someone to prevent him from communicating with law enforcement officers, but did not have federal officers particularly in mind, the Government must show that there was a reasonable likelihood that a relevant communication would have been made to a federal officer in order to establish a violation of the federal witness tampering statute, which criminalizes 'kill[ing] another to . . . prevent the communication to . . . a law enforcement officer . . . of the United States' of 'information relating to the . . . possible commission of a Federal offense,' 18 U. S. C. §1512(a)(1)(C). ",
+    "link": "/opinions/10pdf/10-5443.pdf",
+    "justice": "B",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "48",
+    "date_decided": "5/26/11",
+    "docket": "09-1498",
+    "caption": "United States v. Tinklenberg",
+    "caption_tooltip": "The Speedy Trial Act of 1974—which provides that in 'any case in which a plea of not guilty is entered, the trial . . . shall commence within seventy days' after the arraignment, 18 U. S. C. §3161(c)(1), but lists a number of exclusions from the 70-day period, including 'delay resulting from any pretrial motion,' §3161(h)(1)(D)—contains no requirement that the filing of a pretrial motion actually caused, or was expected to cause, a trial's delay; rather, subparagraph (D) stops the clock from running automatically upon the filing of such a motion irrespective of whether the motion has any impact on when the trial begins.",
+    "link": "/opinions/10pdf/09-1498.pdf",
+    "justice": "B",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "47",
+    "date_decided": "5/26/11",
+    "docket": "09-115",
+    "caption": "Chamber of Commerce of United States of America v. Whiting",
+    "caption_tooltip": "Arizona's Legal Arizona Workers Act, which provides that the licenses of state employers that knowingly or intentionally employ unauthorized aliens may be, and in certain circumstances must be, suspended or revoked, is not preempted by the federal Illegal Immigration Reform and Control Act, which invalidates 'any State or local law imposing civil or criminal sanctions (other than through licensing and similar laws) upon those who employ . . . unauthorized aliens,' 8 U. S. C. §1324a(h)(2). ",
+    "link": "/opinions/10pdf/09-115.pdf",
+    "justice": "R",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "46",
+    "date_decided": "5/23/11",
+    "docket": "09-1233",
+    "caption": "Brown v. Plata",
+    "caption_tooltip": "The three-judge court's mandate limiting California's prison population is necessary to remedy the violation of prisoners' Eighth Amendment rights to adequate medical and mental health care and is authorized by the Prison Litigation Reform Act of 1995.",
+    "link": "/opinions/10pdf/09-1233.pdf",
+    "justice": "K",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "45",
+    "date_decided": "5/23/11",
+    "docket": "09-1298",
+    "caption": "General Dynamics Corp. v. United States",
+    "caption_tooltip": "When, to protect state secrets, a court dismisses a Government contractor's prima facie valid affirmative defense to the Government's allegations of contractual breach, the proper remedy is to leave the parties where they were on the day they filed suit.",
+    "link": "/opinions/10pdf/09-1298.pdf",
+    "justice": "AS",
+    "pt": "563/2"
+  },
+  {
+    "r_seq": "44",
+    "date_decided": "5/16/11",
+    "docket": "09-1272",
+    "caption": "Kentucky v. King",
+    "caption_tooltip": " The rule that exigent circumstances justify a warrantless entry applies when the police do not create the exigency by engaging or threatening to engage in conduct that violates the Fourth Amendment; assuming that an exigency existed here, there is no evidence that police officers either violated the Fourth Amendment or threatened to do so prior to entering respondent's apartment. ",
+    "link": "/opinions/10pdf/09-1272.pdf",
+    "justice": "A",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "43",
+    "date_decided": "5/16/11",
+    "docket": "09-804",
+    "caption": "CIGNA Corp. v. Amara",
+    "caption_tooltip": " Although §502(a)(1)(B) of the Employee Retirement Income Security Act of 1974 did not give the District Court authority to reform CIGNA's pension plan, relief is authorized by §502(a)(3), which allows a participant, beneficiary, or fiduciary 'to obtain other appropriate equitable relief' to redress violations of ERISA 'or the [plan's] terms.'",
+    "link": "/opinions/10pdf/09-804.pdf",
+    "justice": "B",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "42",
+    "date_decided": "5/16/11",
+    "docket": "10-188",
+    "caption": "Schindler Elevator Corp. v. United States ex rel. Kirk",
+    "caption_tooltip": " A federal agency's written response to a Freedom of Information Act request for records constitutes a 'report' within the meaning of the public disclosure bar of the False Claims Act, which generally forecloses private parties from bringing qui tam suits to recover falsely or fraudulently obtained federal payments where those suits are 'based upon the public disclosure of allegations or transactions in [an] administrative . . . report' or 'investigation,' 31 U. S. C. §3730(e)(4)(A).",
+    "link": "/opinions/10pdf/10-188.pdf",
+    "justice": "T",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "41",
+    "date_decided": "5/02/11",
+    "docket": "10-1000",
+    "caption": "Bobby v. Mitts",
+    "caption_tooltip": " Instructions requiring a capital jury to consider a mandatory death sentence before considering a sentence of life imprisonment were not, under 28 U. S. C. §2254(d)(1), 'contrary to' Beck v. Alabama,\n        447 U. S. 625, which concerned guilt, not penalty, proceedings.\n    ",
+    "link": "/opinions/10pdf/10-1000.pdf",
+    "justice": "PC",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "40",
+    "date_decided": "5/02/11",
+    "docket": "137, Orig.",
+    "caption": "Montana v. Wyoming",
+    "caption_tooltip": " Because Article V(A) of the Yellowstone River Compact incorporates the ordinary doctrine of appropriation, and because in Wyoming and Montana that doctrine allows appropriators to improve their irrigation systems, even to the detriment of downstream appropriators, Montana's allegation that Wyoming has allowed its upstream users to switch to a more efficient irrigation system with less return flow fails to state a claim for breach of the Compact under Article V(A).\n    ",
+    "link": "/opinions/10pdf/137Orig.pdf",
+    "justice": "T",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "39",
+    "date_decided": "4/27/11",
+    "docket": "09-893",
+    "caption": "AT&T Mobility LLC v. Concepcion",
+    "caption_tooltip": " California's Discover Bank ule--which permits certain class waivers in consumer arbitration agreements to be found unconscionable--is preempted by the Federal Arbitration Act.\n    ",
+    "link": "/opinions/10pdf/09-893.pdf",
+    "justice": "AS",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "38",
+    "date_decided": "4/26/11",
+    "docket": "09-846",
+    "caption": "United States v. Tohono O'odham Nation",
+    "caption_tooltip": " Under 28 U. S. C. §1500, two suits are 'for or in respect to' the same claim against the United States or its agents, thus precluding Court of Federal Claims (CFC) jurisdiction, if they are based on substantially the same operative facts, regardless of the relief sought in each suit; the substantial overlap in operative facts between respondent's District Court and CFC suits precludes CFC jurisdiction here.\n    ",
+    "link": "/opinions/10pdf/09-846.pdf",
+    "justice": "K",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "37",
+    "date_decided": "4/20/11",
+    "docket": "08-1438",
+    "caption": "Sossamon v. Texas",
+    "caption_tooltip": " States, in accepting federal funding, do not consent to waive their sovereign immunity to private suits for money damages under the Religious Land Use and Institutionalized Persons Act of 2000.\n    ",
+    "link": "/opinions/10pdf/08-1438.pdf",
+    "justice": "T",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "36",
+    "date_decided": "4/19/11",
+    "docket": "09-529",
+    "caption": "Virginia Office for Protection and Advocacy v. Stewart",
+    "caption_tooltip": " Ex parte Young, 209 U. S. 123, allows a federal court to hear a lawsuit for prospective relief against state officials brought by another agency of the same State.\n    ",
+    "link": "/opinions/10pdf/09-529.pdf",
+    "justice": "AS",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "35",
+    "date_decided": "4/04/11",
+    "docket": "09-1088",
+    "caption": "Cullen v. Pinholster",
+    "caption_tooltip": " In determining whether a federal habeas claim that has been 'adjudicated on the merits in State court' can be granted on the ground that 'the adjudication' '(1) resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established Federal law,' 28 U. S. C. §2254(d), review is limited to the record that was before the state court that adjudicated the claim on the merits; on that record, Pinholster was not entitled to federal habeas relief.\n    ",
+    "link": "/opinions/10pdf/09-1088.pdf",
+    "justice": "T",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "34",
+    "date_decided": "4/04/11",
+    "docket": "09-987",
+    "caption": "Arizona Christian School Tuition Organization v. Winn",
+    "caption_tooltip": " Because respondent taxpayers' Establishment Clause challenge is to a tax credit--for contributions to organizations that provide scholarships to students in private schools, including religious schools--as opposed to a governmental expenditure, they lack Article III standing under Flast v. Cohen, 392 U. S. 83.\n    ",
+    "link": "/opinions/10pdf/09-987.pdf",
+    "justice": "K",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "33",
+    "date_decided": "3/29/11",
+    "docket": "09-11556",
+    "caption": "Tolentino v. New York",
+    "caption_tooltip": " Certiorari dismissed as improvidently granted.",
+    "link": "/opinions/10pdf/09-11556.pdf",
+    "justice": "PC",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "32",
+    "date_decided": "3/29/11",
+    "docket": "09-1273",
+    "caption": "Astra USA, Inc. v. Santa Clara County",
+    "caption_tooltip": " Where §340B of the Public Health Services Act imposes ceilings on prices drug manufacturers may charge for medications sold to specified health care facilities, those facilities may not sue allegedly overcharging manufacturers as third-party beneficiaries of the ceiling-price contracts, which run between the drug manufacturers and the Secretary of Health and Human Services.\n    ",
+    "link": "/opinions/10pdf/09-1273.pdf",
+    "justice": "G",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "31",
+    "date_decided": "3/29/11",
+    "docket": "09-571",
+    "caption": "Connick v. Thompson",
+    "caption_tooltip": " A district attorney's office may not be held liable under 42 U. S. C. §1983 for failure to train its prosecutors based on a single violation of Brady v. Maryland, 373 U. S. 83.\n    ",
+    "link": "/opinions/10pdf/09-571.pdf",
+    "justice": "T",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "30",
+    "date_decided": "3/22/11",
+    "docket": "09-1156",
+    "caption": "Matrixx Initiatives, Inc. v. Siracusano",
+    "caption_tooltip": " Respondents stated a claim in this securities fraud action, when they alleged that petitioners violated §10(b) of the Securities Exchange Act of 1934 and Securities and Exchange Commission Rule 10b-5 by failing to disclose reports of a possible link between the company's Zicam Cold Remedy and loss of smell (anosmia), rendering statements made by them misleading.\n    ",
+    "link": "/opinions/10pdf/09-1156.pdf",
+    "justice": "SS",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "29",
+    "date_decided": "3/22/11",
+    "docket": "09-834",
+    "caption": "Kasten v. Saint-Gobain Performance Plastics Corp.",
+    "caption_tooltip": " In an antiretaliation suit under the Fair Labor Standards Act of 1938, which forbids employers 'to discharge . . . any employee because such employee has filed any complaint' alleging a violation of the Act, 29 U. S. C. §215(a)(3), the scope of statutory term 'filed any complaint' includes oral, as well as written, complaints.\n    ",
+    "link": "/opinions/10pdf/09-834.pdf",
+    "justice": "B",
+    "pt": "563/1"
+  },
+  {
+    "r_seq": "28",
+    "date_decided": "3/21/11",
+    "docket": "10-797",
+    "caption": "Felkner v. Jackson",
+    "caption_tooltip": " Because the Antiterrorism and Effective Death Penalty Act of 1996 imposes a highly deferential standard for federal habeas review of state-court decisions, there was no basis for the Ninth Circuit to reach a conclusion opposite the one reached by the state trial court, which credited the prosecutor's race-neutral explanations for dismissing two of three African-American jurors, and by the California Court of Appeal, which carefully reviewed the record in upholding the trial court's findings. ",
+    "link": "/opinions/10pdf/10-797.pdf",
+    "justice": "PC",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "27",
+    "date_decided": "3/07/11",
+    "docket": "09-1163",
+    "caption": "Milner v. Department of Navy",
+    "caption_tooltip": " Explosives maps and data requested from respondent are not materials exempt from release under Freedom of Information Act Exemption 2, which encompasses only records relating to employee relations and human resources issues. ",
+    "link": "/opinions/10pdf/09-1163.pdf",
+    "justice": "EK",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "26",
+    "date_decided": "3/07/11",
+    "docket": "09-868",
+    "caption": "Wall v. Kholi",
+    "caption_tooltip": " In determining whether a motion is 'a properly filed application for . . . collateral review,' 28 U. S. C. §2244(d)(2), that tolls the Antiterrorism and Effective Death Penalty Act of 1996's 1-year filing period for federal habeas claims, the phrase 'collateral review' means judicial review of a judgment in a proceeding that is not part of direct review; the motion to reduce sentence under Rhode Island law that was filed here is an application for 'collateral review' under §2244(d)(2).",
+    "link": "/opinions/10pdf/09-868.pdf",
+    "justice": "A",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "25",
+    "date_decided": "3/07/11",
+    "docket": "09-9000",
+    "caption": "Skinner v. Switzer",
+    "caption_tooltip": " A convicted state prisoner seeking DNA testing of crime-scene evidence may assert that claim in a 42 U. S. C. §1983 civil rights action. ",
+    "link": "/opinions/10pdf/09-9000.pdf",
+    "justice": "G",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "24",
+    "date_decided": "3/02/11",
+    "docket": "09-6822",
+    "caption": "Pepper v. United States",
+    "caption_tooltip": " When a defendant's sentence has been set aside on appeal, a district court at resentencing may consider evidence of the defendant's postsentencing rehabilitation, and such evidence may support a downward variance from the now-advisory Federal Sentencing Guidelines range; because the Eighth Circuit had set aside Pepper's entire sentence and remanded for de novo resentencing, the District Court was not bound by the law of the case doctrine to apply the same 40 percent departure applied by the original sentencing judge. ",
+    "link": "/opinions/10pdf/09-6822.pdf",
+    "justice": "SS",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "23",
+    "date_decided": "3/02/11",
+    "docket": "09-751",
+    "caption": "Snyder v. Phelps",
+    "caption_tooltip": " The First Amendment shields respondents (Westboro) from tort liability for picketing near a soldier's funeral service to express Westboro's views on the United States' tolerance of homosexuality, particularly in America's military, and on clergy scandals in the Catholic Church. ",
+    "link": "/opinions/10pdf/09-751.pdf",
+    "justice": "R",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "22",
+    "date_decided": "3/01/11",
+    "docket": "09-1036",
+    "caption": "Henderson v. Shinseki",
+    "caption_tooltip": " The deadline for filing a notice of appeal with the Court of Appeals for Veterans Claims does not have jurisdictional consequences.",
+    "link": "/opinions/10pdf/09-1036.pdf",
+    "justice": "A",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "21",
+    "date_decided": "3/01/11",
+    "docket": "09-400",
+    "caption": "Staub v. Proctor Hospital",
+    "caption_tooltip": " If a supervisor performs an act motivated by antimilitary animus that is intended by the supervisor to cause an adverse employment action, and if that act is a proximate cause of the ultimate employment action, then the employer is liable under the Uniformed Services Employment and Reemployment Rights Act of 1994.",
+    "link": "/opinions/10pdf/09-400.pdf",
+    "justice": "AS",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "20",
+    "date_decided": "3/01/11",
+    "docket": "09-1279",
+    "caption": "FCC v. AT&T Inc.",
+    "caption_tooltip": " Corporations do not have 'personal privacy' for the purposes of Exemption 7(C) of the Freedom of Information Act.",
+    "link": "/opinions/10pdf/09-1279.pdf",
+    "justice": "R",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "19",
+    "date_decided": "2/28/11",
+    "docket": "09-150",
+    "caption": "Michigan v. Bryant",
+    "caption_tooltip": "The victim's identification and description of the shooter and the location of the shooting were not testimonial statements here, because they had a 'primary purpose  . . . to enable police assistance to meet an ongoing emergency,' Davis v. Washington, 547 U. S. 813, 822; thus, their admission at Bryant's trial did not violate the Confrontation Clause.",
+    "link": "/opinions/10pdf/09-150.pdf",
+    "justice": "SS",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "18",
+    "date_decided": "2/23/11",
+    "docket": "08-1314",
+    "caption": "Williamson v. Mazda Motor of America, Inc.",
+    "caption_tooltip": " Federal Motor Vehicle Safety Standard 208 does not pre-empt state tort suits claiming that manufacturers should have installed lap-and-shoulder belts, instead of lap belts, on rear inner seats of passenger vehicles.",
+    "link": "/opinions/10pdf/08-1314.pdf",
+    "justice": "B",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "17",
+    "date_decided": "2/23/11",
+    "docket": "09-996",
+    "caption": "Walker v. Martin",
+    "caption_tooltip": " California's time limitation on applications for habeas corpus relief qualifies as an independent state ground adequate to bar habeas relief in federal court.",
+    "link": "/opinions/10pdf/09-996.pdf",
+    "justice": "G",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "16",
+    "date_decided": "2/22/11",
+    "docket": "09-520",
+    "caption": "CSX Transportation, Inc. v. Alabama Dept. of Revenue",
+    "caption_tooltip": " CSX may invoke the Railroad Revitalization and Regulatory Reform Act of 1976 to challenge Alabama's sales and use taxes as discriminatory.",
+    "link": "/opinions/10pdf/09-520.pdf",
+    "justice": "EK",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "15",
+    "date_decided": "2/22/11",
+    "docket": "09-152",
+    "caption": "Bruesewitz v. Wyeth LLC",
+    "caption_tooltip": " The National Childhood Vaccine Injury Act of 1986 pre-empts all design-defect claims against vaccine manufacturers brought by plaintiffs seeking compensation for injury or death caused by a vaccine's side effects.",
+    "link": "/opinions/10pdf/09-152.pdf",
+    "justice": "AS",
+    "pt": "562/2"
+  },
+  {
+    "r_seq": "14",
+    "date_decided": "1/24/11",
+    "docket": "10-333",
+    "caption": "Swarthout v. Cooke",
+    "caption_tooltip": "The Ninth Circuit erred in granting habeas relief based on its conclusion that the California courts had misapplied the State's 'some evidence' rule in determining respondents' suitability for parole. ",
+    "link": "/opinions/10pdf/10-333.pdf",
+    "justice": "PC",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "13",
+    "date_decided": "1/24/11",
+    "docket": "09-329",
+    "caption": "Chase Bank USA, N. A. v. McCoy",
+    "caption_tooltip": "At the time of the transactions at issue, the Federal Reserve Board's Regulation Z did not require Chase to notify McCoy of an interest-rate increase instituted pursuant to their credit card agreement, which permitted Chase to raise the interest rate, up to a pre-set maximum, following delinquency or default. ",
+    "link": "/opinions/10pdf/09-329.pdf",
+    "justice": "SS",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "12",
+    "date_decided": "1/24/11",
+    "docket": "09-737",
+    "caption": "Ortiz v. Jordan",
+    "caption_tooltip": "A party may not appeal a denial of summary judgment after a federal district court has conducted a full trial on the merits. ",
+    "link": "/opinions/10pdf/09-737.pdf",
+    "justice": "G",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "11",
+    "date_decided": "1/24/11",
+    "docket": "09-291",
+    "caption": "Thompson v. North American Stainless, LP",
+    "caption_tooltip": "If respondent fired Thompson to retaliate against his fiancée for filing an employment discrimination charge against respondent, Thompson's firing constituted unlawful retaliation under Title VII of the Civil Rights Act of 1964; Title VII grants Thompson a cause of action.",
+    "link": "/opinions/10pdf/09-291.pdf",
+    "justice": "AS",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "10",
+    "date_decided": "1/19/11",
+    "docket": "09-530",
+    "caption": "NASA v. Nelson",
+    "caption_tooltip": " Assuming, without deciding, that the Government's inquiries in this case implicate a privacy interest of constitutional significance, that interest, whatever its scope, does not prevent the Government from asking reasonable questions in an employment background investigation that is subject to the Privacy Act's safeguards against public disclosure. ",
+    "link": "/opinions/10pdf/09-530.pdf",
+    "justice": "A",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "9",
+    "date_decided": "1/19/11",
+    "docket": "09-658",
+    "caption": "Premo v. Moore",
+    "caption_tooltip": " Moore was not entitled to habeas relief based on his ineffective-assistance-of-counsel claim. ",
+    "link": "/opinions/10pdf/09-658.pdf",
+    "justice": "K",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "8",
+    "date_decided": "1/19/11",
+    "docket": "09-587",
+    "caption": "Harrington v. Richter",
+    "caption_tooltip": " Title 28 U. S. C. §2254(d) —which limits federal habeas relief for claims previously 'adjudicated on the merits' in state court—applies to Richter's petition, even though the California Supreme Court issued only a summary denial; Richter was not entitled to habeas relief based on an ineffective-assistance-of-counsel claim.",
+    "link": "/opinions/10pdf/09-587.pdf",
+    "justice": "K",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "7",
+    "date_decided": "1/11/11",
+    "docket": "09-907",
+    "caption": "Ransom v. FIA Card Services, N. A.",
+    "caption_tooltip": " A debtor under Chapter 13 of the Bankruptcy Code may not deduct car-ownership costs from his disposable income if he is not making loan or lease payments.",
+    "link": "/opinions/10pdf/09-907.pdf",
+    "justice": "EK",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "6",
+    "date_decided": "1/11/11",
+    "docket": "09-837",
+    "caption": "Mayo Foundation for Medical Ed. and Research v. United States",
+    "caption_tooltip": " The Treasury Department's full-time employee rule—which does not categorize medical residents as students exempt from Federal Insurance Contributions Act taxes—is a reasonable construction of 26 U. S. C. §3121(b)(10).",
+    "link": "/opinions/10pdf/09-837.pdf",
+    "justice": "R",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "5",
+    "date_decided": "1/10/11",
+    "docket": "10-72",
+    "caption": "Madison County v. Oneida Indian Nation of N. Y.",
+    "caption_tooltip": "  The judgment is vacated and the case is remanded for the Second Circuit to address whether to revisit its ruling in light of respondent's recently passed declaration and ordinance waiving tribal sovereign immunity to enforcement of real property taxation through foreclosure by state, county, and local governments.",
+    "link": "/opinions/10pdf/10-72.pdf",
+    "justice": "PC",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "4",
+    "date_decided": "12/13/10",
+    "docket": "08-1423",
+    "caption": "Costco Wholesale Corp. v. Omega, S. A.",
+    "caption_tooltip": "  Judgment affirmed by equally divided Court.",
+    "link": "/opinions/10pdf/08-1423.pdf",
+    "justice": "PC",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "3",
+    "date_decided": "11/30/10",
+    "docket": "09-350",
+    "caption": "Los Angeles County v. Humphries",
+    "caption_tooltip": " The requirement making municipalities liable under 42 U. S. C. §1983 only 'when execution of [their] policy or custom . . . inflicts the injury,' Monell v. New York City Dept. of Social Servs., 436 U. S. 658, 694, applies irrespective of whether the relief sought is monetary or prospective.\n",
+    "link": "/opinions/10pdf/09-350.pdf",
+    "justice": "B",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "2",
+    "date_decided": "11/15/10",
+    "docket": "09-479",
+    "caption": "Abbott v. United States",
+    "caption_tooltip": " A defendant is subject to the highest mandatory minimum specified for his conduct in 18 U. S. C. §924(c)—which makes it an offense to use, carry, or possess a deadly weapon in connection with a violent or drug-trafficking crime—unless another provision of law directed to conduct proscribed by §924(c) imposes an even greater mandatory minimum. ",
+    "link": "/opinions/10pdf/09-479.pdf",
+    "justice": "G",
+    "pt": "562/1"
+  },
+  {
+    "r_seq": "1",
+    "date_decided": "11/08/10",
+    "docket": "10-91",
+    "caption": "Wilson v. Corcoran",
+    "caption_tooltip": " A federal court may issue a writ of habeas corpus to a state prisoner only for a violation of federal law; thus, the Seventh Circuit erred in granting the writ to respondent for a violation of state law.",
+    "link": "/opinions/10pdf/10-91.pdf",
+    "justice": "PC",
+    "pt": "562/1"
+  }
+]
