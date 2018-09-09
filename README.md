@@ -2,7 +2,7 @@
 Slip (and misc.) Opinions of the US Supreme Court (unofficial; not affiliated with any government agency)
 
 
-Portions Copyright © 2016 the authors of the https://github.com/publicdocs project. No claim made to original US government works. Use of this project is subject to the [NOTICE](https://github.com/publicdocs/notice/blob/master/NOTICE). This content may be inaccurate or incomplete and should not be used for official purposes.
+Portions Copyright © 2016 the authors of the https://github.com/publicdocs project. No claim made to original US government works. Use of this project is subject to the [NOTICE](https://publicdocs.github.io/notice/NOTICE.txt). This content may be inaccurate or incomplete and should not be used for official purposes.
 
 ## Document Metadata
 
